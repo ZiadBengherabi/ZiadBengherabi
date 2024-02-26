@@ -17,5 +17,5 @@
 
 <p align='center'>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadBengherabi&theme=radical&layout=compact&langs_count=6" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadBengherabi&theme=radical" width="60%" />
 </p>
